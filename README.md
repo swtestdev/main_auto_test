@@ -1,2 +1,2 @@
 # main_api
-Uses for API tests
+Uses for API tests and other tests.
